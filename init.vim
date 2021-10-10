@@ -133,7 +133,7 @@ noremap <LEADER>f :F  **/*<left><left><left><left><left>
 " ==================================================
 " ============================================Cocvim
 " ==================================================
-let g:coc_global_extensions = ['coc-json', 'coc-flutter', 'coc-flutter-tools', 'coc-syntax', 'coc-snippets', 'coc-sourcekit', 'coc-actions', 'coc-diagnostic', 'coc-explorer', 'coc-eslint', 'coc-translator', 'coc-xml']
+let g:coc_global_extensions = ['coc-marketplace', 'coc-json', 'coc-flutter', 'coc-flutter-tools', 'coc-syntax', 'coc-snippets', 'coc-sourcekit', 'coc-actions', 'coc-diagnostic', 'coc-explorer', 'coc-eslint', 'coc-translator', 'coc-xml']
 
 
 set hidden

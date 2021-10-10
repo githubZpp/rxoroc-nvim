@@ -5,14 +5,14 @@
 
  2. 配置VimPlug
 
- 3. checkhealth
+ 3. clone项目 到 ~/.config  目录下
 
- 4. clone项目 到 ~/.config  目录下
+ 4. 创建 plugged文件夹
 
- 5. 创建 plugged文件夹
+ 5. nvim init.vim
 
- 6. nvim init.vim
+ 6. PlugInstall
 
- 7. PlugInstall
+ 7. :checkhealth
 
- 8. CocList
+ 8. CocList marketplace
